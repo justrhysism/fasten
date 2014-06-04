@@ -1,0 +1,26 @@
+{
+  "name": "sass-extend-framework",
+  "version": "0.1.0",
+  "homepage": "https://github.com/justrhysism/sass-framework-extend",
+  "authors": [
+    "Rhys Lloyd <justrhysism@gmail.com>"
+  ],
+  "description": "Extend a SASS framework for your own projects.",
+  "keywords": [
+    "sass",
+    "foundation",
+    "bootstrap",
+    "framework"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.2.3"
+  }
+}
