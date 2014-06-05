@@ -1,0 +1,19 @@
+/**
+	Custom-module.scss
+	Version: 1.0.0
+
+	Contributors: Rhys L
+
+	This file will generate custom module
+*/
+
+// Construct - Assets, Settings, Toolkit
+@import "../../construct/construct";
+
+// Vendor
+@import "vendor/vendor-component";
+
+// Module Parts
+@import "custom-module-parta";
+@import "custom-module-partb";
+@import "custom-module-partc";

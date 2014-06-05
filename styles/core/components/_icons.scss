@@ -1,0 +1,16 @@
+/**
+ *	Icons
+ *
+ *	(Optional) Make the icons available as classes.
+ *	Or you can simply include an icon wherever you wish to use it
+ *	without needing to bloat your CSS with extra classes.
+ */
+
+// Global selector (optional, test for performance)
+[class*="icon-"]:before {
+	@extend %extend-icon;
+}
+
+.icon-my-icon:before {
+	@extend %icon-my-icon;
+}

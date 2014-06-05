@@ -1,0 +1,25 @@
+/**
+ *	Icons
+ *
+ */
+
+%extend-icon {
+	font-family: 'icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+// Icons in the Construct should only be extenders.
+// Whilst this does require an amount of double handling when
+// adding/removing icons, it means that we can extend icons
+// into our modules with ease, or add icons for use explicitly
+// within a module.
+%icon-my-icon {
+	content: "\e600";
+}

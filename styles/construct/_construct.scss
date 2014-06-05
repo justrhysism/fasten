@@ -1,0 +1,15 @@
+/**
+ *	Construct
+ *	Version: 1.0.0
+ *
+ *	The construct is the base dependency for all core files and modules.
+ *	Contains:
+ *		-- Toolkit
+ *		-- Assets
+ *		-- Settings (including Foundation settings)
+*/
+
+@import "config";
+@import "toolkit/toolkit";
+@import "assets/assets";
+@import "settings/settings";

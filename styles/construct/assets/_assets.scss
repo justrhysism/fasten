@@ -1,0 +1,8 @@
+/**
+ *	Assets
+ *
+ *	Exposes all global assets. Fonts, icons, sprites etc.
+ */
+
+@import "fonts/fonts";
+@import "icons/icons"; // Dependency on "fonts"

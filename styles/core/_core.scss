@@ -1,0 +1,15 @@
+/**
+ *	Core
+ *
+ *	This file will generate the core theme for the project, including your framework.
+ *	Individual modules are not to be included in the core.
+*/
+
+// Vendor
+@import "vendor/vendor-component.scss";
+
+// Components
+@import "components/icons";
+@import "components/typography";
+@import "components/layout/layout";
+@import "components/navigation/navigation";

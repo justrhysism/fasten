@@ -1,0 +1,17 @@
+/**
+ *	Main.scss
+ *	Version: 1.0.0
+ *
+ *	Contributors: Rhys L
+ *
+ *	This file will generate the core theme for the project, including Foundation.
+ *	Individual modules are not to be included in the core.
+*/
+
+// Construct - Toolkit, Assets, Settings
+@import "construct/construct";
+
+// Theme - Normalize, Foundation, Core
+@import "core/normalize";
+@import "framework/foundation";
+@import "core/core";
