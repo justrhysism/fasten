@@ -1,7 +1,8 @@
 Fasten
 =====================
 
-Fasten is a pattern (or framework) for neatly integrating your favourite front-end framework into your project in a manageable and upgradeable manner. It provides a method of breaking your styles into modules, without restricting access to common project settings and assets.
+**Fasten** isn't a new framework. It's not a new tool. _Fasten is simply a pattern_. A pattern to fasten frameworks together and neatly integrate a project's theme in a maintainable, upgradable way.
+
 
 (I will, in time, provide more concise information into the structure of Fasten in this readme. However for now, please read my [blogpost on Fasten][0].)
 
